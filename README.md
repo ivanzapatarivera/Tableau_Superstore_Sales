@@ -45,4 +45,4 @@ GitHub Title: Tableau: https://github.com/ivanzapatarivera/Tableau
 
 ### Screenshot
 
-![Getting_Started](screenshot.PNG)
+![Getting_Started](screenshot.png)
