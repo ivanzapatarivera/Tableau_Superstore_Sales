@@ -38,9 +38,11 @@ The state with the highest level of returns (by number) is California. However, 
 The states with the highest level of return rates are Oregon, Louisiana, California, Massachusetts, and Colorado. The relationship between returns and profitability is ambiguous as these items are also among the most profitable across these states.
 
 
-### GitHub Repository
+### Repository and Public Tableau URL's
 
-GitHub Title: Tableau: https://github.com/ivanzapatarivera/Tableau
+GitHub Title: Tableau [https://github.com/ivanzapatarivera/Tableau](https://github.com/ivanzapatarivera/Tableau)
+
+Public Tableau URL [https://tabsoft.co/3xnNWgS](https://tabsoft.co/3xnNWgS)
 
 
 ### Screenshot
